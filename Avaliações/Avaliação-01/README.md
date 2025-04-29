@@ -1,2 +1,2 @@
-# pdm-251
-Repositório criado para as atividades da disciplina de Programação de Dispositivos Móveis.
+# Atividade 1
+Atividade 1
