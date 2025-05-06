@@ -60,7 +60,7 @@ void main() {
 
   var listaFuncionarios = [func1, func2, func3];
 
-  var equipe = EquipeProjeto("Projeto Alpha", listaFuncionarios);
+  var equipe = EquipeProjeto("Projeto Dart", listaFuncionarios);
 
   var encoder = JsonEncoder.withIndent('  ');
   print(encoder.convert(equipe.toJson()));
