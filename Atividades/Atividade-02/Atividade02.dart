@@ -7,7 +7,6 @@ class Dependente {
     this._nome = nome;
   }
 
-  // Método para conversão em JSON
   Map<String, dynamic> toJson() {
     return {
       'nome': _nome,
