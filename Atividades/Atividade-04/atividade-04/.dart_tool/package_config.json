@@ -1,0 +1,68 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/collection-1.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/ffi-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/meta-1.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sqflite_common",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite_common-2.4.5+1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqflite_common_ffi",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite_common_ffi-2.2.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "sqlite3",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqlite3-1.11.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/synchronized-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "atividade_04",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generated": "2025-05-20T22:25:24.960143Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.2"
+}
