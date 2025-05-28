@@ -19,7 +19,7 @@ void main() async {
   final smtpServer = gmail(username, password);
 
   final message = Message()
-    ..from = Address(username, 'Seu Nome')
+    ..from = Address(username, 'Matheus Silva')
     ..recipients.add(destinatario ?? '')
     ..subject = assunto ?? ''
     ..text = corpoMensagem ?? '';
